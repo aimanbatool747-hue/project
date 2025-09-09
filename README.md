@@ -1,3 +1,3 @@
 # project
 This is my first Git Repository.
-Auhtor - Aiman Batool
+Author - Aiman Batool
